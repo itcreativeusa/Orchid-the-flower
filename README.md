@@ -3,10 +3,10 @@
 ## Description
 
 Link to deployed application
- https://itcreativeusa.github.io/Orchid-the-flower
+ https://itcreativeusa.github.io/orchid-the-flower
 
 Github link 
-https://github.com/itcreativeusa/Orchid-the-flower
+https://github.com/itcreativeusa/orchid-the-flower
 
 This Orchid-the-flower website was created as a bootcamp everyweek student challege. This website is a HTML & CSS portfolio page. The code of this contact page was created from scratch.
 Website contains: 
