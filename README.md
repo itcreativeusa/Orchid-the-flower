@@ -8,7 +8,7 @@ Link to deployed application
 Github link 
 https://github.com/itcreativeusa/orchid-the-flower
 
-This Orchid-the-flower website was created as a bootcamp everyweek student challege. This website is a HTML & CSS portfolio page. The code of this contact page was created from scratch.
+This Orchid-the-flower website was created as a boot camp every week student challenge. This website is an HTML & CSS portfolio page. The code of this contact page was created from scratch.
 Website contains: 
 - Header menu
 - Image with description
@@ -41,7 +41,7 @@ Screenshot located in ``` assets/images ``` folder
 ## Credits
 
 
-Image of orchid was found here:
+An image of orchid was found here:
 
 https://www.allaboutgardening.com/types-of-orchids/
 
